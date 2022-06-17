@@ -1,0 +1,11 @@
+{
+  "pages": [
+    "pages/todos/todos"
+  ],
+  "window": {
+    "defaultTitle": "Demo App",
+    "titleBarColor": "#ad2da5"
+  }
+}
+
+
